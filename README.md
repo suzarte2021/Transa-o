@@ -1,2 +1,1 @@
-# Transa-o
-Transação
+Transacao
